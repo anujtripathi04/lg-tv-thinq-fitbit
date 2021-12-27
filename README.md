@@ -17,9 +17,9 @@ This is an self-made app for Fitbit watches to control the LG Smart TVs running 
 Developed by [Anuj Kumar Tripathi] [anujtripathi.in]
 
 ## Credits
-Inspired by the library https://github.com/msloth/lgtv.js
-Icons made by Md Tanvirul Haque (https://www.flaticon.com/authors/md-tanvirul-haque) from www.flaticon.com
-Icons made by Freepik (https://www.freepik.com) from www.flaticon.com
+- Inspired by the library https://github.com/msloth/lgtv.js
+- Icons made by Md Tanvirul Haque (https://www.flaticon.com/authors/md-tanvirul-haque) from www.flaticon.com
+- Icons made by Freepik (https://www.freepik.com) from www.flaticon.com
 
 ## License
 
@@ -44,6 +44,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
